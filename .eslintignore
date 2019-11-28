@@ -1,0 +1,7 @@
+src/serviceWorker.js
+
+**/*.css
+**/*.scss
+
+**/*.svg
+**/*.png
